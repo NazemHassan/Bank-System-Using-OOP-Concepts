@@ -1,0 +1,47 @@
+﻿  Project Bank System My Solution.cpp
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsUser.h(179,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+      E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsUser.h(24,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsBankClient.h(195,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+      E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsBankClient.h(25,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsBankClient.h(48,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsBankClient.h(398,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsBankClient.h(410,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsTotalBalancesScreen.h(60,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Project%20Bank%20System%20My%20Solution.cpp')
+  
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsBankClient.h(351,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\Project Bank System My Solution\clsUser.h(320,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project Bank System My Solution.vcxproj -> E:\courses\11 - OOP as it Should Be (Applications)\Project Bank System My Solution\x64\Debug\Project Bank System My Solution.exe
