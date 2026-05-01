@@ -5,7 +5,7 @@
 
 using namespace std;
 
-class clsPerson : public InterfaceCommunication
+class clsPerson 
 {
 private:
 
@@ -71,21 +71,6 @@ public:
 	string FullName()
 	{
 		return _FirstName + " " + _LastName;
-	}
-
-	void SendEmail(string Title, string Body)
-	{
-
-	}
-
-	void SendFax(string Title, string Body)
-	{
-
-	}
-
-	void SendSMS(string Title, string Body)
-	{
-
 	}
 
 };
