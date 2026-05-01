@@ -39,6 +39,12 @@ In this version, I focused on improving the architecture and code organization b
 - Currency calculator  
 
 ---
+### 🔐 Authentication System  
+- 🔑 Login / Logout  
+- 🛡️ Password encryption  
+- 👤 User permissions system   
+- 🚪 Access control for screens  
+- ⛔ Login attempt limit (max 3 tries)
 
 ## 🎯 What I Learned
 - Applying OOP concepts in a real project  
